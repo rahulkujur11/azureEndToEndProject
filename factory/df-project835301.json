@@ -1,0 +1,15 @@
+{
+	"name": "df-project835301",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a2b3775c-6363-4690-b322-227914e59e98",
+		"tenantId": "ecacb65d-436b-49fc-9eb1-2214b96dfd01"
+	}
+}
