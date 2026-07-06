@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-project835301"
+		},
+		"AzureDataLakeStorageLinkedService_accountKey": {
+			"value": ""
+		},
+		"AzureSqlDatabaseLinkedService_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorageLinkedService_properties_typeProperties_url": {
+			"value": "https://storageproject835301.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabaseLinkedService_properties_typeProperties_server": {
+			"value": "sqlserver-project835301.database.windows.net"
+		},
+		"AzureSqlDatabaseLinkedService_properties_typeProperties_database": {
+			"value": "sqldatabase-project835301"
+		},
+		"AzureSqlDatabaseLinkedService_properties_typeProperties_userName": {
+			"value": "adminrahul"
+		}
+	}
+}
